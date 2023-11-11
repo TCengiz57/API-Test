@@ -56,6 +56,5 @@ https://jsonplaceholder.typicode.com/posts/70 url'ine asagidaki Json formatindak
 
 
 
-        git branch -M main
-        git remote add origin https://github.com/TCengiz57/API-Test.git
-        git push -u origin main
+
+
